@@ -35,14 +35,14 @@ export default {
     "@nuxtjs/eslint-module",
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
+    "@nuxtjs/dotenv"
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
-    "@nuxtjs/auth-next",
-    "@nuxrjs/dotenv"
+    "@nuxtjs/auth-next"
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
